@@ -1,0 +1,22 @@
+{
+    "prefix": "~",
+    "rainbowdelay": 60000,
+    "rainbowcommand": "rainbow",
+    "rainbowstop": "stop",
+    "rainbowrole": [
+        "#9400D3", 
+        "#4B0082",  
+        "#0000FF",
+        "#BDFF00",
+        "#FFFF00",
+        "#FF7F00",
+        "#00F3FF", 
+        "#FF0000"
+    ],
+    "messageresponse": {
+        "missingperm": "I need permission 'MANAGE_ROLES' to execute this action.",
+        "success": "Alright! Your rainbow is working",
+        "rainbowstop": "Ok, ranbow is over",
+        "rolenotfound": "The requested role you typed was not found"
+    }
+}
