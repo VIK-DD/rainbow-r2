@@ -32,4 +32,4 @@ bot.on('message', message => {
                        message.channel.send(settings.messageresponse.rainbowstop).catch(err=> message.channel.send("No response"))
                        }
 });
-bot.login(procces.env.token)
+bot.login(process.env.token)
