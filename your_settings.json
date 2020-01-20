@@ -1,6 +1,6 @@
 {
     "prefix": "~",
-    "rainbowdelay": 25000,
+    "rainbowdelay": 5000,
     "rainbowcommand": "rainbow",
     "rainbowstop": "stop",
     "rainbowrole": [
