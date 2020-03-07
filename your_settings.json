@@ -1,5 +1,5 @@
 {
-    "prefix": "~",
+    "prefix": "+",
     "rainbowdelay": 60000,
     "rainbowcommand": "rainbow",
     "rainbowstop": "stop",
